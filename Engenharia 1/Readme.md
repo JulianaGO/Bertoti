@@ -31,7 +31,9 @@
 
 ![Plataforma de ensino](https://user-images.githubusercontent.com/88887821/159950529-7f4850b0-0028-4bb0-8d3d-c8bdddbb5501.png)
 
-<h3> Pessoa </h3>
+<h3> 👩🏻‍🤝‍👩🏽 Pessoa </h3>
+<img width="145" alt="pessoa" src="https://user-images.githubusercontent.com/88887821/160303005-67ee3255-56da-4b98-88d3-d3090fd06a6b.png">
+
 
 ```JAVA
 public class Pessoa {
