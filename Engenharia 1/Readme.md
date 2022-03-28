@@ -19,8 +19,7 @@
 
 <h4><p>🪓 Diagrama de Classes:</h4><p>
   
-
-  ![Classes](https://user-images.githubusercontent.com/88887821/159947653-ef65b0da-bed9-47ee-93f5-accdf323bd46.png)
+<img width="537" alt="Pratica 1 engenharia" src="https://user-images.githubusercontent.com/88887821/160313355-a3d2d69e-0c6e-47f7-80db-942d3e0cb385.png">
 
 
 <h3>Atividade de Desenvolvimento</h3>
@@ -29,13 +28,113 @@
 
 <h3>💻 Plataforma de ensino </h3>
 
-![Plataforma de ensino](https://user-images.githubusercontent.com/88887821/159950529-7f4850b0-0028-4bb0-8d3d-c8bdddbb5501.png)
-
-<h3> 👩🏻‍🤝‍👩🏽 Pessoa </h3>
-<img width="145" alt="pessoa" src="https://user-images.githubusercontent.com/88887821/160303005-67ee3255-56da-4b98-88d3-d3090fd06a6b.png">
+<img width="167" alt="plataforma de ensino 1" src="https://user-images.githubusercontent.com/88887821/160312573-28a06be5-e8bc-4b76-bc33-cd03ebd6ffea.png">
 
 
 ```JAVA
+public class Plataforma {
+    import java.util.LinkedList;
+    import java.util.List;
+
+    private List <Pessoa> pessoas = new LinkedList<Pessoa>();
+
+    public void cadastrarPessoa(Pessoa pessoa){
+        pessoas.add(pessoa);
+    }
+    public List<Pessoa> buscarPessoaPorNome (String nome){
+        for (Pessoa pessoa:pessoas) {;
+            if (pessoa.getNome().equals(nome)) {;
+                return pessoa;
+            }
+        }
+        return null;
+}
+    public List<Email>buscarPessoaPorEmail (String email);
+        for (Pessoa pessoa:pessoas){;
+            if (pessoa. getEmail().equals(email)) {;
+                return pessoa;
+            }
+        }
+        return null;
+}
+    public void cadastrarDisciplina (Disciplina disciplinas) {
+        disciplina.add(disiciplinas);
+    }
+    public Disciplina buscarDisciplinaPorNome(String nome){
+        for(Disciplina disciplina:disciplinas){
+            if(disciplina.getNomeDisciplina().equals(nome)){
+                return disciplina;
+            }
+        }
+        return null;
+    }
+    public Disciplina buscarDisciplinaPorDocente(String docente){
+        for(Disciplina disciplina:disciplinas){
+            if(disciplina.getDocente().equals(docente)){
+                return disciplina;
+            }
+        }
+        return null;
+    }
+    public Disciplina buscarDisciplinaPorSala(int sala){
+        for(Disciplina disciplina:disciplinas){
+            if(disciplina.getSala).equals(sala)){
+                return disciplina;
+            }
+        }
+        return null;
+```
+
+<h3>📄Disciplina </h3>
+
+<img width="145" alt="Disciplina" src="https://user-images.githubusercontent.com/88887821/160313386-c12fc275-01b9-41fb-8ef7-d1e01df6376f.png">
+
+
+``` JAVA
+
+public class Disciplina {
+    private String nome;
+    private int sala;
+    private String docente;
+
+    public Disciplina(String nome, int sala, String docente) {
+        this.nome = nome;
+        this.sala = sala;
+        this.docente = docente;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public int getSala() {
+        return sala;
+    }
+
+    public void setSala(int sala) {
+        this.sala = sala;
+    }
+
+    public String getDocente() {
+        return docente;
+    }
+
+    public void setDocente(String docente) {
+        this.docente = docente;
+    }
+}
+```
+     
+<h3>👩🏻‍🤝‍👩🏽 Pessoa</h3>
+
+<img width="155" alt="Pessoa" src="https://user-images.githubusercontent.com/88887821/160312830-7989e73b-dcec-4479-9b92-84f08a88bb92.png">
+
+```JAVA
+
 public class Pessoa {
     private String nome;
     private String email;
@@ -62,3 +161,7 @@ public class Pessoa {
     }
 }
 ```
+
+
+
+
