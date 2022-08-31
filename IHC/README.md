@@ -27,5 +27,13 @@
 
 <p> Nesta diretriz o objetivo é [...]fornecer aos usuários uma visão geral do conteúdo e sua organização. Os títulos descritivos identificam seções do conteúdo em relação à página da Web como um todo e a outras seções da mesma página da Web.[...]. Ou seja, com ela fica mais fácilpara o usuário se orientar na página e encontrar as informações desejadas. 
 
+<h2>FALHAS</h2>
+<h3> Módulo Mídia baseada em tempo</h3>
+<h3>Diretriz 1.2.6: Língua de sinais</h3>
+<p> "A interpretação da linguagem de sinais é fornecida para todo o conteúdo de áudio pré-gravado em mídia sincronizada"</p>
+ 
+ ![image](https://user-images.githubusercontent.com/88887821/187688080-48e93003-ede0-4e1c-bcb5-1e401c06af47.png)
+ 
+ <p> Nesta diretriz o objetivo é [...]permitir que usuários que não podem ouvir ou ler textos rapidamente possam acessar material de mídia sincronizado sem afetar a apresentação do material para todos os espectadores.[...]. No entanto, neste caso mostrado no exemplo, o usuário não possui o a opção de escolher a linguagem de sinais como um modo de ver o vídeo.</p>
 
  
