@@ -17,36 +17,15 @@
 
 ![image](https://user-images.githubusercontent.com/88887821/187682851-1d4eb58f-4b62-4956-abef-ca30059d61e3.png)
 
+<p> Nesta diretriz o objetivo é [...]" fornecer uma maneira para que pessoas com deficiência auditiva ou que tenham problemas para ouvir o diálogo em material de mídia sincronizado possam visualizar o material e ver o diálogo e os sons - sem exigir que pessoas não surdas assistam as legendas. Com esta técnica, todos os diálogos e sons importantes são incorporados como texto de uma forma que faz com que o texto não fique visível, a menos que o usuário o solicite."[...]. Como está destacado na imagem acima (quadrado vermelho), é necessário que o usuário aperte no botão de legendas para que elas apareceçam.</p>
+
+<h2> Módulo Navegável</h2>
+<h3> Diretriz 2.4.6 Títulos e etiquetas</h3>
+<p> "Os títulos e rótulos descrevem o tópico ou propósito."</p>
+
+![image](https://user-images.githubusercontent.com/88887821/187685822-64e62ff9-c58b-4239-9f86-02ceb9c0f813.png)
+
+<p> Nesta diretriz o objetivo é [...]fornecer aos usuários uma visão geral do conteúdo e sua organização. Os títulos descritivos identificam seções do conteúdo em relação à página da Web como um todo e a outras seções da mesma página da Web.[...]. Ou seja, com ela fica mais fácilpara o usuário se orientar na página e encontrar as informações desejadas. 
 
 
-
-
-* Uso de formatos diversos, como vídeo e sua respectiva transcrição. 
-
-![alt text](https://github.com/Jennyads/Bertoti/blob/main/Intera%C3%A7%C3%A3o%20Humano%20Computador/Imagens/diretriz_1.2_midia_baseada_em_tempo.JPG)
-
-* Não uso de formatos diversos. 
-
-![alt text](https://github.com/Jennyads/Bertoti/blob/main/Intera%C3%A7%C3%A3o%20Humano%20Computador/Imagens/diretriz_1.2_midia_baseada_em_tempo_contra.JPG)
-
-<h3>Diretriz 1.3 - Adaptável</h3>
-
-* Plataforma Udemy adaptável para dispotivo remotos (aplicativo) e site. 
-
-0 Site: 
-
-![alt text](https://github.com/Jennyads/Bertoti/blob/main/Intera%C3%A7%C3%A3o%20Humano%20Computador/Imagens/diretriz_1.3_adaptavel.JPG)
-
-- Aplicativo:
-
-![alt text](https://github.com/Jennyads/Bertoti/blob/main/Intera%C3%A7%C3%A3o%20Humano%20Computador/Imagens/diretriz_1.3_adaptavel_app.jpg)
-
-<h3>Diretriz 1.4 - Distinguível</h3>
-
- * Contraste negativo de cores: 
  
-![alt text](https://github.com/Jennyads/Bertoti/blob/main/Intera%C3%A7%C3%A3o%20Humano%20Computador/Imagens/diretriz_1.4_distinguivel.JPG)
-
-* Contraste negativo de cores: 
-
-![alt text](https://github.com/Jennyads/Bertoti/blob/main/Intera%C3%A7%C3%A3o%20Humano%20Computador/Imagens/diretriz_1.4_distinguivel_aplicavel.JPG)
