@@ -34,6 +34,12 @@
   <section align="left">
 <img width="627" alt="imagem" src="https://user-images.githubusercontent.com/88887821/203545082-67761736-7d99-4b3e-89a2-14317b48ddc4.png">
  
+   <h2>Módulo Compreensível</h2>
+<h3> Diretriz 3.3.1: erro de identificação - Nível A</h3>
+ <p>  Nesta diretriz o objetivo é [...]Se um erro de entrada for detectado automaticamente, o item com erro é identificado e o erro é descrito ao usuário em texto.[...], como pr exemplo, na tentativa de entrar com um  email que não possui uma conta cadastrada na netflix:</p>
+  
+   <img width="250" alt="Sem título" src="https://user-images.githubusercontent.com/88887821/203548046-fe2f6ea8-1f89-4573-81d4-62b227705851.png">
+
  
 
 <h2>FALHAS</h2>
