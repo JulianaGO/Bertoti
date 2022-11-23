@@ -25,7 +25,16 @@
 
 ![image](https://user-images.githubusercontent.com/88887821/187685822-64e62ff9-c58b-4239-9f86-02ceb9c0f813.png)
 
-<p> Nesta diretriz o objetivo é [...]fornecer aos usuários uma visão geral do conteúdo e sua organização. Os títulos descritivos identificam seções do conteúdo em relação à página da Web como um todo e a outras seções da mesma página da Web.[...]. Ou seja, com ela fica mais fácilpara o usuário se orientar na página e encontrar as informações desejadas. 
+<p> Nesta diretriz o objetivo é [...]fornecer aos usuários uma visão geral do conteúdo e sua organização. Os títulos descritivos identificam seções do conteúdo em relação à página da Web como um todo e a outras seções da mesma página da Web.[...]. Ou seja, com ela fica mais fácilpara o usuário se orientar na página e encontrar as informações desejadas. </p>
+ 
+ <h2>Módulo Perceptível</h2>
+ <h3> Diretriz 1.1.1 Conteúdo não-textual</h3>
+ <p> Neste diretriz o obejtivo é [...]Todo conteúdo não textual que é apresentado ao usuário possui uma alternativa textual [...]. No exemplo abaixo, o Instagram utiliza-se da descrição da foto para atender essa diretriz:
+ 
+  <section align="left">
+<img width="627" alt="imagem" src="https://user-images.githubusercontent.com/88887821/203545082-67761736-7d99-4b3e-89a2-14317b48ddc4.png">
+ 
+ 
 
 <h2>FALHAS</h2>
 <h3> Módulo Mídia baseada em tempo</h3>
@@ -35,5 +44,11 @@
  ![image](https://user-images.githubusercontent.com/88887821/187688080-48e93003-ede0-4e1c-bcb5-1e401c06af47.png)
  
  <p> Nesta diretriz o objetivo é [...]permitir que usuários que não podem ouvir ou ler textos rapidamente possam acessar material de mídia sincronizado sem afetar a apresentação do material para todos os espectadores.[...]. No entanto, neste caso mostrado no exemplo, o usuário não possui o a opção de escolher a linguagem de sinais como um modo de ver o vídeo.</p>
-
  
+
+
+  
+
+
+
+
