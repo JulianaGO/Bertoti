@@ -3,7 +3,7 @@
 <h2>Aula Referente á Web Content Accessibility Guidelines (WCAG)</h2>
 
 
-<h2>Mó2ulo distinguível</h2>
+<h2>Módulo distinguível</h2>
 <h3> Diretriz 1.4.1: uso de cor - Nível A</h3>
 <p>"A cor não é usada como o único meio visual de transmitir informações, indicar uma ação, solicitar uma resposta ou distinguir um elemento visual."</p>
 
