@@ -2,7 +2,7 @@ public class Fantasma {
     private Movimento realizaMovimento;
         
     public void PacMan() {
-            // Definir o comportamento padrão como perseguição
+     
             realizaMovimento = new MovBranco();
     }
         
