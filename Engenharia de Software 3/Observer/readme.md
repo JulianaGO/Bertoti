@@ -1,3 +1,3 @@
 <h1>Observer</h1>
 
-![Observer](https://github.com/JulianaGO/Bertoti/assets/88887821/a48d7770-2355-475f-bfc9-f67f212bf63d)
+![Diagrama sem nome drawio](https://github.com/JulianaGO/Bertoti/assets/88887821/cb9abcba-14a3-4788-8049-376e1dd49232)
